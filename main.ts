@@ -1,17 +1,10 @@
 /**
- * The World This Wednesday - 18 November 2026
- *
- * 30 stories across 7 regions:
- * - Middle East (7): Xi greets Trump, Kuwait-Bahrain intercept Iranian drones, WHO chief calls for ceasefire
- * - US (7): Petloa wins Alaska, Democrats take 56-44 Senate, Anthropic valued at 1.5 trillion, GTA VI launches
- * - Asia (6): Putin says sanctions are a thing of the past, Quad leaders meet for first time in 2 years
- * - Europe (4): Russia fires 141 drones at Kyiv, trains collide near Prague with 46 hurt, EU proposes EUR 45bn loan, Fed minutes near end
- * - World (3): Voyager 1 one light-day from Earth, NSA/net outage with no cyberattack, Kerch Bridge span collapse
- * - Ukraine (2): October saw 372 civilians killed, Canada announces new military support
- * - Africa (1): Ethiopia and Eritrea amass forces on border
- *
- * Lead stories:
- * 1. [ASIA-APEC] Xi greets Trump on the tarmac in Shenzhen - rare airport welcome
- * 2. [MIDDLE EAST-IRAN WAR] Kuwait and Bahrain intercept Iranian drones
- * 3. [WORLD-SPACE] Voyager 1 is one light-day from Earth - NASA probe 25.9 billion km away
+ * Front page of The World Chronicle newspaper for Wednesday, 18 November 2026.
+ * Displays 30 stories distributed across seven geo-regional sections, color-coded and ranked.
+ * Middle East leads with 7 stories (geopolitical summits, drone interceptions), matched by US coverage (elections, markets).
+ * Asia contributes 6 stories (APEC summit, sanctions rhetoric); Europe covers 4 major incidents.
+ * Peripheral regions (World, Ukraine, Africa) provide 1–3 stories each, from space exploration to border tensions.
+ * The numbers strip across the footer visualizes story distribution: 7, 7, 6, 4, 3, 2, 1 by region.
+ * Region-specific color coding distinguishes each section for rapid visual scanning of coverage emphasis.
+ * Three lead stories anchor the front: Xi-Trump tarmac meeting, Iranian drone interception, and Voyager 1 milestone.
  */
