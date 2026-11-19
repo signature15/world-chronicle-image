@@ -1,10 +1,14 @@
 /**
- * Wednesday, 18 November 2026: The World Chronicle renders its front page as one broadsheet poster.
- * The page is split into seven geo-regional sections, from Middle East and United States down to World.
- * Thirty stories are apportioned across those sections, led by seven each for Middle East and the US.
- * Asia carries six stories and Europe four, while Africa, Ukraine, and World round out the spread.
- * Every headline card is tinted in its section's region color, so coverage emphasis reads at a glance.
- * A numbers strip along the footer plots the regional tally as a bar row: 7, 7, 6, 4, 3, 2, 1.
- * Three leads anchor the day: the Xi-Trump tarmac meeting, the Iranian drone interception, Voyager 1.
- * Sections, story counts, and the region palette together form a one-glance census of the day's news.
+ * One Day in World News — Wednesday, 18 November 2026.
+ * This poster is the repository's entry: a single broadsheet front page, entry.png,
+ * that gathers the day's worldwide reporting onto one printable sheet.
+ * The masthead spans the top with the paper's name and the full date, setting the edition.
+ * Directly beneath, a day-in-numbers strip reduces the news to a row of key figures and counts.
+ * The lead stories then run across the width: the biggest headlines of the day, given the most space.
+ * Below the leads, a region color grid sorts the remaining coverage into colored zones, one per region,
+ * so a reader can trace how much of the day belonged to each part of the world at a single glance.
+ * Toward the foot of the page, short evening briefs compress late-breaking items into tight paragraphs.
+ * A sources footer closes the sheet, crediting the outlets from which every story on the page was drawn.
+ * The whole composition reads top to bottom like a real newspaper: masthead, numbers, leads, regions,
+ * briefs, and sources — one ordinary Wednesday, rendered as one image.
  */
